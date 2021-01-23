@@ -1,1 +1,37 @@
 
+.section {
+  outline: 2px solid black;
+  width: 250px;
+  float: left;
+  margin: 40px;
+  background-color: grey;
+}
+
+h2 {
+  outline: 2px solid black;
+  width: 90px;
+  text-align: center;
+  margin-left: 159px;
+  margin-top: -25px;
+}
+
+h1 {
+    text-align:center;
+}
+
+div {
+  align-items: center;
+  margin: 150px;
+}
+
+#sushi {
+  background-color: yellow;
+}
+
+#Chicken {
+  background-color: pink;
+}
+
+#beef {
+  background-color: red;
+}
